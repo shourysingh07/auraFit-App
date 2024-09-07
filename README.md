@@ -1,7 +1,7 @@
 # AuraFit EShop
- is a robust full-stack e-commerce platform designed for fitness enthusiasts using HTML, Tailwind CSS, React, JavaScript, Node.js, Express, and MongoDB.
+AuraFit EShop is a robust full-stack e-commerce platform designed for fitness enthusiasts using HTML, Tailwind CSS, React, JavaScript, Node.js, Express, and MongoDB.
 
-Key features of AuraFit EShop include:
+Key features of UFit EShop include:
 - Secure user authentication using JWT tokens for safe registration and login.
 - Easy navigation through product categories and filtering based on preferences.
 - Shopping cart feature allowing users to save desired products for future purchase.
