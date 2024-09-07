@@ -62,7 +62,6 @@ const Login = () => {
         body: JSON.stringify(user),
       }
     );
-    console.log(data);
     
     const res = await data.json();
     const { check } = res;
